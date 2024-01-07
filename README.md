@@ -1,7 +1,9 @@
 
 <h3 align="center">
   <samp>
-   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=9BE9A8&center=true&random=false&width=435&lines=catch+o+cat" alt="Typing SVG" /></a>
+   <a href="https://git.io/typing-svg">
+   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=90F7C3FF&repeat=false&random=false&width=435&lines=catch+o+cat" alt="Typing SVG" />
+   </a>
   </samp>
 </h3>
 
